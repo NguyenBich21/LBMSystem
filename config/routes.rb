@@ -18,7 +18,7 @@ Rails.application.routes.draw do
   resources :languages
   resources :authors
   resources :storage_locations
-  resources :departmets
+  resources :departments
   resources :students
   resources :coupon_borrows
   resources :librarians
